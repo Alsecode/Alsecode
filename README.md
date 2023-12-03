@@ -29,7 +29,7 @@ https://alsecode-chat.surge.sh/
 
 JS
 <br>
-https://frontend-project-11-six-gules.vercel.app/
+https://alsecode-rss.vercel.app/
 
 React + Redux
 <br>
