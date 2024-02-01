@@ -22,15 +22,19 @@
 ### Some of my projects
 HTML + CSS (SASS)
 <br>
-https://alsecode-musicbox.surge.sh/
+https://alsecode-longread.vercel.app/
 <br>
-https://alsecode-chat.surge.sh/
+https://alsecode-platinum.vercel.app/
+<br>
+https://alsecode-musicbox.surge.sh/
 
 JS
 <br>
 https://alsecode-rss.vercel.app/
 
 React + Redux
+<br>
+https://alsecode-currency-converter.vercel.app/
 <br>
 https://alsecode-chat.onrender.com/
 
