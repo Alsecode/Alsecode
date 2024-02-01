@@ -3,7 +3,6 @@
 
 - 1st year master's student at Stankin University
 - currently learning TypeScript
-- love web-development and everything related to it
 - looking for a job primarily to improve my skills as a developer as well as gain experience in teamwork
 
 ### My Tech Stack
