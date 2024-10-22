@@ -1,9 +1,5 @@
 ### Hello! 👾
-### I'm junior frontend developer, looking for a job. 💻
-
-- 1st year master's student at Stankin University
-- currently learning TypeScript
-- looking for a job primarily to improve my skills as a developer as well as gain experience in teamwork
+### I'm frontend developer, looking for a job. 💻
 
 ### My Tech Stack
 <div>
@@ -39,6 +35,6 @@ https://alsecode-currency-converter.vercel.app/
 https://alsecode-chat.onrender.com/
 
 ### Contacts
-📧 awer1230@gmail.com
+📧 arturmakars@mail.ru
 <br>
 💬 https://t.me/quilllix
